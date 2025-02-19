@@ -1,8 +1,32 @@
-- 👋 Hi, I’m Willem van der Merwe Norbért, a Software Developer at [@Afrolabs](http://afrolabs.co.za/).
-- 👀 I’m interested in Web and Mobile Development, as well as interests in Game Design.
-- 🖥️ My primary stack is working with Javascript frameworks like Angular, React and Vue with Python backends using Google Cloud Platform services
-- 🌱 Every day is a new learning experience on my road to becoming a better developer and I've recently also completed a course in React-Native for Mobile Development.
-- 📫 You can reach me through my email: merwejoubert@gmail.com or on twitter [@MerweJoubert](https://twitter.com/MerweJoubert)
+# 👋 Hi, I’m Willem van der Merwe Norbért  
+
+I'm a Software Developer at [@Afrolabs](http://afrolabs.co.za/), passionate about building robust and dynamic web applications. I enjoy exploring new technologies, solving complex problems, and occasionally dabbling in game design.
+
+["No More Zero Days"](https://samholstein.com/the-no-zero-days-productivity-mindset-might-change-your-life/)
+
+---
+
+### 🛠️ **Tech Stack**
+- **Frontend:** Next.js, React, SvelteKit (Typescript all round)
+- **Backend:** Python (FastAPI, Django)  
+- **Cloud:** Google Cloud Platform (GCP), some experience with AWS  
+- **Other:** Github, CI/CD, Google Firebase, BigQuery  
+
+---
+
+### 📚 **Learning & Growth**
+I believe in continuous learning and have read:
+- *The Pragmatic Programmer* by Andrew Hunt and David Thomas  
+- *Clean Code* by Robert C. Martin  
+- *The Manager’s Path* by Camille Fournier  
+
+Currently working through *Designing Data-Intensive Applications* by Martin Kleppmann.
+
+---
+
+### 📫 **Let's Connect!**
+- **Email:** [merwejoubert@gmail.com](mailto:merwejoubert@gmail.com)  
+- **LinkedIn:** [@Willem-Merwe](https://www.linkedin.com/in/willem-merwe/) 
 
 <!---
 Merwe-Afrolabs/Merwe-Afrolabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
